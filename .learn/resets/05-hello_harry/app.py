@@ -1,8 +1,9 @@
 #Complete the function below to print the output per the example.
 def hello_name(name):
-    hello = "Hello, "
-    exclamacion= "!"
-    desarrollo= (hello + name + exclamacion)
-    return desarrollo
+
+    return None
+
+
+
 #Invoke the function with your name as the function's argument. 
-print(hello_name("juan"))
+print(hello_name())

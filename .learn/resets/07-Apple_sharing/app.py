@@ -3,13 +3,10 @@
 #2) How many apples wil remain in the basket.
 #Hint: You can resolve this exercise either importing the math module or without it 
 def apple_sharing(n,k):
-  num1 = round(k / n)
-  num2 = (num1 * n)
-  num3 = (k - num2)
-  desarrollo = (num1 , num3)
-  return desarrollo
+  
+  return None
  
     
 
 #Print the two answer per the example output.
-print(apple_sharing(8,20))
+print(apple_sharing())
