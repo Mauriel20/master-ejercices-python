@@ -113,7 +113,7 @@
         {
             "slug": "07.1-square-value",
             "title": "07.1-square-value",
-            "done": false,
+            "done": true,
             "path": "exercises/07.1-square-value",
             "translations": [
                 "es",
@@ -124,7 +124,7 @@
         {
             "slug": "08-hours_and_minutes",
             "title": "08-hours_and_minutes",
-            "done": false,
+            "done": true,
             "path": "exercises/08-hours_and_minutes",
             "translations": [
                 "es",
@@ -135,7 +135,7 @@
         {
             "slug": "09-Two_timestamps",
             "title": "09-Two_timestamps",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Two_timestamps",
             "translations": [
                 "es",
@@ -146,7 +146,7 @@
         {
             "slug": "10-Two_digits",
             "title": "10-Two_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Two_digits",
             "translations": [
                 "es",
@@ -157,7 +157,7 @@
         {
             "slug": "11-Swap_digits",
             "title": "11-Swap_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Swap_digits",
             "translations": [
                 "es",
@@ -168,7 +168,7 @@
         {
             "slug": "12-Last_two_digits",
             "title": "12-Last_two_digits",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Last_two_digits",
             "translations": [
                 "es",
@@ -179,7 +179,7 @@
         {
             "slug": "13-Tens_digit",
             "title": "13-Tens_digit",
-            "done": false,
+            "done": true,
             "path": "exercises/13-Tens_digit",
             "translations": [
                 "es",
